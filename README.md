@@ -17,8 +17,5 @@ Python, Flask, scikit-learn, Pandas, Matplotlib, OpenWeather API
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a `.env` file with your API key:
-```
-   MY_API_KEY=your_openweather_api_key
-```
 4. Run: `python app.py`
-5. Open `http://localhost:5000`
+5. Open http://localhost:5000
